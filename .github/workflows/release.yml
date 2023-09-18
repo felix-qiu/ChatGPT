@@ -74,8 +74,8 @@ jobs:
       - run: pnpm build --target ${{ matrix.target }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TAURI_PRIVATE_KEY: ${{ secrets.TAURI_PRIVATE_KEY }}
-          TAURI_KEY_PASSWORD: ${{ secrets.TAURI_KEY_PASSWORD }}
+          TAURI_PRIVATE_KEY: dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5aXNxMFR3eTA1N3M1ZXJVMTkraE1yRjN6NFdFL1FUSFZoZEtONTUxYmEwd0FBQkFBQUFBQUFBQUFBQUlBQUFBQTBKK3BGMW9yTS9vNmlNclltd0pqNE5XZFkxWjRLRWxnejNUSHd4Wml5NUVXSFJTR2N2Yk9pTlBMczNWK1BSSkJ0Q25PYWpJUk9vSUJkb2lmVzNYUU8zQlQ4WTBZcHhhQlYzaFFrL1hFcE1LSExseEFNV05ZaEhQWGI2b1FORk5ZTDduQkZjZzBHVFk9Cg==
+          TAURI_KEY_PASSWORD: 123456
 
       - uses: actions/upload-artifact@v3
         if: matrix.os == 'ubuntu-latest'
