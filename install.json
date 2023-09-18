@@ -1,0 +1,35 @@
+{
+  "version": "v1.1.0",
+  "notes": "Fix:\n\n- Fixed the issue where the cmd slash command does not work in some cases.\n- Moved the export button to the sidebar to prevent layout conflicts.",
+  "pub_date": "2023-09-18T03:25:15.337Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRalg3WXpCbXJWUXpuUy9PaEs1OUY2Vi9XS1BYQ1RwOUtyQzlQcFdoREh3a3o5VUlnVnpmWjFUbi9RNHBUTzB5WUJuRldCMGd0VW4xNGt2T2cxN2VaVWVtM2dvTzNSZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDA3Mzg3CWZpbGU6Q2hhdEdQVF8xLjEuMF94NjRfZW4tVVMubXNpLnppcApXRFd2K2dtU1RENjA1aWdSRHNvTTlWMUtEOUgrZWw3Z3R0aEkyNHlOME5UZ25qN0JXeXUvNTM1UzE2anQ0enorMTAxVE9VZ3puREZYVXB0cE54SmhCZz09Cg==",
+      "url": "https://github.com/felix-qiu/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_windows_x86_64.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRalg3WXpCbXJWUTZnTUR4b2FDOWhrd3dUZUpZRllGWnNJbSswR1JvOUpqOEJ0Sy9XVUY1SEUyZnVTaFV4TmdlZ2lZTElQa25kUHJHdDBKRm1LcWsxak5GYkhGdUt1VVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDA3MTA0CWZpbGU6Y2hhdC1ncHRfMS4xLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Cm5pMmRJZ3pNNyttN2hHRjdnMFhkSnFsbjJYUmFvdTRBWHhqSWZMVG1XSlNlWlJDMGkrQ0RNMXp6d1VURFllTkRxa2x3WThidHlyd3RXVEhtc2pGM0JBPT0K",
+      "url": "https://github.com/felix-qiu/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRalg3WXpCbXJWUTNqTzVMVXp5dXRYUWt3QnhibVZWSFR4by9yMVdlTFhjU0g2ZjlZcW1vTFhEU1VVZi9xVVpPT2EzUHBHaWZKNTJOMHpLaVl2dnRaMDRpVHZyZmRwTkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDA3MDI5CWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6Ck9yV1Y0SHR4ZzNPOHdKS3BWUWg2YXE0SjRkNUN4cFZCUHUyQUQwdU91QXJ6aENSVkx0K1k1Szc0eTlHMFhUWUhFYzlKWGJUd0NOTGtEc2UxUFJ2VEJnPT0K",
+      "url": "https://github.com/felix-qiu/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRalg3WXpCbXJWUTNqTzVMVXp5dXRYUWt3QnhibVZWSFR4by9yMVdlTFhjU0g2ZjlZcW1vTFhEU1VVZi9xVVpPT2EzUHBHaWZKNTJOMHpLaVl2dnRaMDRpVHZyZmRwTkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDA3MDI5CWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6Ck9yV1Y0SHR4ZzNPOHdKS3BWUWg2YXE0SjRkNUN4cFZCUHUyQUQwdU91QXJ6aENSVkx0K1k1Szc0eTlHMFhUWUhFYzlKWGJUd0NOTGtEc2UxUFJ2VEJnPT0K",
+      "url": "https://github.com/felix-qiu/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRalg3WXpCbXJWUTNqTzVMVXp5dXRYUWt3QnhibVZWSFR4by9yMVdlTFhjU0g2ZjlZcW1vTFhEU1VVZi9xVVpPT2EzUHBHaWZKNTJOMHpLaVl2dnRaMDRpVHZyZmRwTkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDA3MDI5CWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6Ck9yV1Y0SHR4ZzNPOHdKS3BWUWg2YXE0SjRkNUN4cFZCUHUyQUQwdU91QXJ6aENSVkx0K1k1Szc0eTlHMFhUWUhFYzlKWGJUd0NOTGtEc2UxUFJ2VEJnPT0K",
+      "url": "https://github.com/felix-qiu/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_macos_x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRalg3WXpCbXJWUTZnTUR4b2FDOWhrd3dUZUpZRllGWnNJbSswR1JvOUpqOEJ0Sy9XVUY1SEUyZnVTaFV4TmdlZ2lZTElQa25kUHJHdDBKRm1LcWsxak5GYkhGdUt1VVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDA3MTA0CWZpbGU6Y2hhdC1ncHRfMS4xLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Cm5pMmRJZ3pNNyttN2hHRjdnMFhkSnFsbjJYUmFvdTRBWHhqSWZMVG1XSlNlWlJDMGkrQ0RNMXp6d1VURFllTkRxa2x3WThidHlyd3RXVEhtc2pGM0JBPT0K",
+      "url": "https://github.com/felix-qiu/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRalg3WXpCbXJWUXpuUy9PaEs1OUY2Vi9XS1BYQ1RwOUtyQzlQcFdoREh3a3o5VUlnVnpmWjFUbi9RNHBUTzB5WUJuRldCMGd0VW4xNGt2T2cxN2VaVWVtM2dvTzNSZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1MDA3Mzg3CWZpbGU6Q2hhdEdQVF8xLjEuMF94NjRfZW4tVVMubXNpLnppcApXRFd2K2dtU1RENjA1aWdSRHNvTTlWMUtEOUgrZWw3Z3R0aEkyNHlOME5UZ25qN0JXeXUvNTM1UzE2anQ0enorMTAxVE9VZ3puREZYVXB0cE54SmhCZz09Cg==",
+      "url": "https://github.com/felix-qiu/ChatGPT/releases/download/v1.1.0/ChatGPT_1.1.0_windows_x86_64.msi.zip"
+    }
+  }
+}
